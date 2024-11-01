@@ -20,7 +20,8 @@
 
 
 ## Link para vídeo com o passo a passo do deploy e utilização
-[![Vídeo TPC](http://img.youtube.com/vi/3V5XxM7scrQ/0.jpg)]([https://www.youtube.com/watch?v=TNQVB-BvAgIM]).
+[![Vídeo TPC](http://img.youtube.com/vi/3V5XxM7scrQ/0.jpg)](https://www.youtube.com/watch?v=TNQVB-BAgIM).
+
 
 ![Repos](https://github.com/user-attachments/assets/3772d70c-f1dc-47b7-9483-201b0fdfd409)
 
