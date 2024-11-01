@@ -16,7 +16,7 @@
 - Thiago Zupelli - RM99085
 
 ## Documentação completa
-[LesSoft_pipelines.pdf](https://github.com/user-attachments/files/17604430/LesSoft_pipelines.pdf)
+[LesSoft_pipelines..pdf](https://github.com/user-attachments/files/17604766/LesSoft_pipelines.pdf)
 
 
 ## Link para vídeo com o passo a passo do deploy e utilização
